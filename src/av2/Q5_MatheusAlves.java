@@ -27,7 +27,7 @@ public class Q5_MatheusAlves {
 		return link;
 	}
 	public static void main(String []args) {
-		String path = "C:\\Users\\mathe\\Documents\\POO_Q5.txt";
+		String path = "C:\\Users\\mathe\\IdeaProjects\\Av2_POO\\src\\av2\\q5.txt";
 		List<String> link = PalavrasComLink(path);
 		System.out.println(link);
 	}
